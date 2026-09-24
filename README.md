@@ -1,12 +1,12 @@
 # Mai Nhut Tan - Personal Profile
 
-Website gioi thieu ca nhan don gian, hien dai va responsive.
+Website giới thiệu cá nhân đơn giản.
 
 ## Tinh nang
 
-- Gioi thieu ban than, ky nang va so thich
-- Che do sang va toi
-- Menu responsive cho dien thoai
+- Giới thiệu bản thân, kỹ năng va sở thích
+- Chế độ sáng và tối
+- Menu responsive cho điện thoại
 - Hieu ung cuon trang nhe nhang
 - Lien ket email va GitHub
 
