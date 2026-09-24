@@ -2,17 +2,16 @@
 
 Website giới thiệu cá nhân đơn giản.
 
-## Tinh nang
+## Tính năng
 
-- Giới thiệu bản thân, kỹ năng va sở thích
+- Giới thiệu bản thân, kỹ năng và sở thích
 - Chế độ sáng và tối
-- Menu responsive cho điện thoại
-- Hieu ung cuon trang nhe nhang
-- Lien ket email va GitHub
+- Hiệu ứng cuộn trang nhẹ nhàng
+- Liên kết email và GitHub
 
-## Chay du an
+## Chạy dự án
 
-Mo truc tiep `index.html` trong trinh duyet hoac su dung Live Server.
+Mở trực tiếp `index.html` trong trình duyệt hoặc sử dụng Live Server.
 
 ## Lien he
 
