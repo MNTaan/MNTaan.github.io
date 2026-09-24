@@ -1,4 +1,4 @@
-const menuToggle=document.querySelector('.menu-toggle');
+﻿const menuToggle=document.querySelector('.menu-toggle');
 const navigation=document.querySelector('.nav');
 
 menuToggle.addEventListener('click',()=>{
@@ -23,4 +23,3 @@ const revealObserver=new IntersectionObserver(entries=>{
 },{threshold:.12});
 
 document.querySelectorAll('.reveal').forEach(element=>revealObserver.observe(element));
-document.querySelector('#year').textContent=new Date().getFullYear();
