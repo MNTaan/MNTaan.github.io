@@ -1,32 +1,20 @@
-# 👋 Hi, I'm Mai Nhựt Tân! 
----
-🎓 First-year warrior at VNUHCM – UIT
+# Mai Nhut Tan - Personal Profile
 
-💻 Interested in Computer Science 
+Website gioi thieu ca nhan don gian, hien dai va responsive.
 
-🚀 Learning C++ 
+## Tinh nang
 
----
+- Gioi thieu ban than, ky nang va so thich
+- Che do sang va toi
+- Menu responsive cho dien thoai
+- Hieu ung cuon trang nhe nhang
+- Lien ket email va GitHub
 
-# 🔧 Skills & Tools
+## Chay du an
 
-- Programming: C++ , Python (basic)
+Mo truc tiep `index.html` trong trinh duyet hoac su dung Live Server.
 
-- CS Fundamentals: Algorithms, Data Structures
+## Lien he
 
-- Tools: VS Code, GitHub
-
----
-
-## 📫 Contact Me
-📧 **Email:** tanmainhut2007@gmail.com  
-🐙 **GitHub:** https://github.com/MNTaan
-
----
-
-## ✨ Fun Facts
-- Master TFT.
-- Music and game is my life, and code =)).  
-
----
-
+- Email: tanmainhut2007@gmail.com
+- GitHub: https://github.com/MNTaan
