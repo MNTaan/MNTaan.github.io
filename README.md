@@ -9,10 +9,6 @@ Website giới thiệu cá nhân đơn giản.
 - Hiệu ứng cuộn trang nhẹ nhàng
 - Liên kết email và GitHub
 
-## Chạy dự án
-
-Mở trực tiếp `index.html` trong trình duyệt hoặc sử dụng Live Server.
-
 ## Lien he
 
 - Email: tanmainhut2007@gmail.com
